@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<meta charset="UTF-8">
+<title>Gestion Pilotos</title>
+<link rel="stylesheet" href="css/HojaEstilos.css" >
+</head>
+
+<body>
+<h2>Bienvenido a Gestion Pilotos</h2>
+ <div>
+     <div>
+            <div>
+                <button  onclick="irA('alta','piloto')">Alta piloto</button>
+                
+                <form action="http://localhost:8081/airbase/alta" method="GET">
+					id: <input type="text" name="id" value="">
+					<br />
+					Nombre: <input type="text" name="nombre" value="">
+					<br />
+					Horas de Vuelo: <input type="text" name="horasVuelo" value="">
+					<br />
+					Operativo: <input type="text" name="operativo" value="">
+					<br />
+					Administrador:  <input type="text" name="admin" value="">
+					<br />
+					
+					<input type="submit" value="Enviar información" />
+				</form>
+            </div>
+            <div>
+                <button class="" onclick="irA('baja','piloto')">Baja piloto</button>
+            </div>
+            <div>
+                <button  onclick="irA('modificar','piloto')">Modificar piloto</button>
+            </div>
+            <div>
+                <button onclick="irA('ver','piloto')">Ver pilotos</button>
+            </div>
+        </div>
+    </div>
+    
+     <button onclick="window.history.back()">Volver</button>
+     <script src="js/BotonesPrincipales.js"></script>
+</body>
+</html>

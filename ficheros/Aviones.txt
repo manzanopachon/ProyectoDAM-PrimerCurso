@@ -1,0 +1,3 @@
+Codigo,Nombre,HorasVuelo,Operativo
+A001,B22,138,true
+A002,Airbus,86,true

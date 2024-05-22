@@ -1,0 +1,3 @@
+Numero incidencia,Código,Descripción,Operativo
+In1,P001,Ha tenido un accidente,false,2024-05-21
+In2,A002,Se le ha roto un ala,false,2024-05-21

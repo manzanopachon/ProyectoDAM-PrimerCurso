@@ -1,0 +1,4 @@
+Codigo,Nombre,HorasVuelo,Operativo,Admin
+P001,Faly,549,true,true
+P002,Mauricio,1021,true,false
+P003,Omar,375,true,true

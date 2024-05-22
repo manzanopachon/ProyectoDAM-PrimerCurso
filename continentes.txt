@@ -1,0 +1,6 @@
+Africa,Sudafrica,Nigeria,Kenia,Marruecos,Ghana,Senegal,Etiopia
+America,Estados Unidos,Canada,Mexico,Argentina,Brasil,Colombia,Peru
+Antartida,Orcadas,Carlini,Marambio,Petrel,Bellingshausen,Palmer,Halley
+Asia,Japon,China,India,Indionesia,Corea del Sur,Singapur,Iran
+Europa,Italia,Alemania,Francia,España,Inglaterra,Polonia,Ucrania
+Oceania,Australia,Fiyi,Samoa,Islas Salomon,Nauru,Tonga,Palaos
